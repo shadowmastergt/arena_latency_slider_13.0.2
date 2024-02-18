@@ -1,7 +1,3 @@
-Well, I suppose that the cat is out of the bag, yeah? Someone has ported the input latency adjustment part of HDR to vanilla.
-
-Since I co-authored this feature, I think it is fair that I explain how it works so that misinformation about it being "fair" or anything like that doesn't spread.
-
 # Client Side Only
 Honestly, we aren't quite sure why the SSBU development team did not synchronize this between players, it should have been one of the key things they did synchronize to ensure fair play.
 
